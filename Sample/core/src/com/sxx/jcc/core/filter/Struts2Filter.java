@@ -12,7 +12,7 @@ import org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter;
 public class Struts2Filter extends StrutsPrepareAndExecuteFilter { 
 	public void doFilter(ServletRequest req, ServletResponse res, FilterChain chain) throws IOException, ServletException {
 		HttpServletRequest request = (HttpServletRequest) req;
-		// 不过滤的url
+		// 不过滤的url  
 		String url = request.getRequestURI();
 		if (url.indexOf("imageUp.jsp") != -1 || url.indexOf("fileUp.jsp") != -1) {
 			chain.doFilter(req, res);
