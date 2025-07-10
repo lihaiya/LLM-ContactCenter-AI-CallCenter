@@ -1,5 +1,5 @@
 # LLM-ContactCenter-AI-CallCenter 大模型时代的呼叫中心、智能呼叫中心
-LLM Call Center,AI Call Center,大模型呼叫中心,AI Contact Center,大模型客服系统，可以对接市面上主流模型与私有模型：OpenAI,LLaMA,Kimi,通义千问,智谱AI,讯飞星火,Gemini,Xorbits Inference,Amazon Bedrock,火山引擎,腾讯混元,Claude,Bard,DeepSeek,Azure OpenAI,千帆大模型,Ollama,qwen,vLLM；contact center,call center,cc,ipcc,呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，呼叫中心系统，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，联络中心，客服中心，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块!!
+LLM Call Center,AI Call Center,大模型呼叫中心,AI Contact Center,大模型客服系统，可以对接市面上主流模型与私有模型；contact center,call center,cc,ipcc,呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，呼叫中心系统，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，联络中心，客服中心，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块!!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄为什么使用大语言模型呼叫中心？真正解决“ASR+NLP+TTS”时代的痛点，让AI真正可用！
@@ -29,14 +29,7 @@ LLM Call Center,AI Call Center,大模型呼叫中心,AI Contact Center,大模型
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-## 2025.07.07最新demo链接enjoy😄：
-
-1，话务/在线客服：(demo123/demo123@Abc)
-http://124.220.48.38:8822/cc
-
-2，工单：(demo/123456)
-http://124.220.48.38:80
-
+## 2025.07.10最新demo链接enjoy😄：
 注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/df84fe73-35ba-4570-806e-88e0619f34aa)
 
@@ -58,10 +51,6 @@ http://124.220.48.38:80
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
 
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
-![freeipcc14](https://github.com/user-attachments/assets/c1e5a412-6a38-48bc-bbad-2a129af562e7)
-![image](https://github.com/user-attachments/assets/e7fcb31f-530b-4b96-a6e3-e90fb9f5db60)
-![image](https://github.com/user-attachments/assets/52064c20-f502-423a-9546-b865aa2e11ff)
-![image](https://github.com/user-attachments/assets/b68d242e-ca19-4806-b84c-11239ee2d8f6)
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
 ![freeipcc15](https://github.com/user-attachments/assets/a9b20c37-2b29-4a92-b06a-af1fcc5c75ed)
 ![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0b53f8b5-72f3-4f1f-82d4-cf50f60ad875)
