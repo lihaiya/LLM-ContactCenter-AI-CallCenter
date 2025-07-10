@@ -55,7 +55,6 @@ LLM Call Center,AI Call Center,大模型呼叫中心,AI Contact Center,大模型
 ![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
 ![image](https://github.com/user-attachments/assets/dd5ef068-e4cc-48ba-aaa6-074f1eade244)
 ![image](https://github.com/user-attachments/assets/7889efb4-85e9-45b2-84a4-ea837dc6b7fd)
-![image](https://github.com/user-attachments/assets/96c81618-9d85-4d32-9f9a-6719426b4640)
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
